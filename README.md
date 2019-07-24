@@ -2,7 +2,7 @@
 
 Welcome To TextCap-Py
 -----------------------
-My TextCap project is about simple text captcha system interface.
+My TextCap-Py project is about simple text captcha system interface.
 
 Some Important Conditions are here...........
 -----------------------
